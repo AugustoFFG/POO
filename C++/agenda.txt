@@ -1,0 +1,67 @@
+A000006
+20/05/2009 10:00
+180
+Inteligência Artificial
+Graduação
+2
+
+A000007
+18/05/2009 15:00
+180
+Linguagens de Programação
+Graduação
+3
+
+R000002
+19/05/2009 09:00
+180
+true
+Novas Grades Curriculares
+2
+
+A000001
+20/05/2009 07:00
+120
+Programação II
+Graduação
+3
+
+O000011
+20/05/2009 12:00
+240
+true
+Suelen
+Mestrado
+Experimentação
+3
+
+O000009
+20/05/2009 08:00
+180
+true
+Danuza
+Mestrado
+Data da Defesa
+5
+
+E000005
+18/05/2009 11:00
+1
+Encontro de Inteligência Artificial
+Bento Gonçalves
+2
+
+A000004
+20/05/2009 15:00
+180
+Linguagens
+Graduação
+1
+
+P000003
+18/05/2009 10:00
+120
+false
+Trabalho Voluntário
+Escola São Paulo
+1

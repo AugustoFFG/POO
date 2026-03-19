@@ -1,0 +1,56 @@
+000001: Aula de Programação II
+Início: 20/05/2009 07:00
+Fim: 20/05/2009 09:00
+Prioridade: 6
+Nível: Graduação
+
+000002: Reunião de Departamento
+Início: 19/05/2009 09:00
+Fim: 19/05/2009 12:00
+Prioridade: 8
+Assunto: Novas Grades Curriculares
+
+000003: Trabalho Voluntário
+Início: 18/05/2009 10:00
+Fim: 18/05/2009 12:00
+Prioridade: 3
+Local: Escola São Paulo
+
+000004: Aula de Linguagens
+Início: 20/05/2009 15:00
+Fim: 20/05/2009 18:00
+Prioridade: 2
+Nível: Graduação
+
+000005: Encontro de Inteligência Artificial
+Início: 18/05/2009 11:00
+Fim: 19/05/2009 11:00
+Prioridade: 6
+Local: Bento Gonçalves
+
+000006: Aula de Inteligência Artificial
+Início: 20/05/2009 10:00
+Fim: 20/05/2009 13:00
+Prioridade: 4
+Nível: Graduação
+
+000007: Aula de Linguagens de Programação
+Início: 18/05/2009 15:00
+Fim: 18/05/2009 18:00
+Prioridade: 6
+Nível: Graduação
+
+000009: Orientação de Danuza
+Início: 20/05/2009 08:00
+Fim: 20/05/2009 11:00
+Prioridade: 5
+Nível: Mestrado
+Assunto: Data da Defesa
+
+000011: Orientação de Suelen
+Início: 20/05/2009 12:00
+Fim: 20/05/2009 16:00
+Prioridade: 3
+Nível: Mestrado
+Assunto: Experimentação
+
