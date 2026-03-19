@@ -1,0 +1,60 @@
+E000008
+13/07/2009 09:00
+5
+Congresso da SBC
+Bento Gonçalves
+4
+
+A000001
+15/07/2009 09:00
+120
+Programação I
+Graduação
+3
+
+A000002
+14/07/2009 14:00
+180
+Processamento de Dados I
+Graduação
+3
+
+A000006
+15/07/2009 09:00
+120
+Sistemas Inteligentes
+Mestrado
+3
+
+O000005
+14/07/2009 09:00
+60
+true
+Fabio
+Graduação
+Iniciação Científica
+8
+
+R000007
+14/07/2009 09:00
+180
+true
+Afastamentos
+2
+
+P000003
+15/07/2009 10:00
+60
+true
+Consulta Médica
+Clínica São José
+2
+
+O000004
+14/07/2009 11:00
+60
+true
+Marcelo
+Graduação
+Sistemas Nebulosos
+4
